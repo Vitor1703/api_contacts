@@ -1,0 +1,527 @@
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CopyComplete
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joyce\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joyce\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joyce\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\API_DOTNET--1-\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\joaor\Desktop\Faculdade\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\joaor\Desktop\Faculdade\API Contacts\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\vitor\Desktop\API Contacts\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Service.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Domain.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Api.CrossCutting.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\bin\Debug\net8.0\Data.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\vitor\Downloads\API Contacts\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll

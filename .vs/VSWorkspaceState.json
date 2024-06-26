@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Api.Apllication",
+    "\\src\\Api.CrossCutting",
+    "\\src\\Api.Data",
+    "\\src\\Api.Domain",
+    "\\src\\Api.Services"
+  ],
+  "SelectedNode": "\\src\\Api.sln",
+  "PreviewInSolutionExplorer": false
+}
